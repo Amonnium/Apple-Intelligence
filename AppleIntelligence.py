@@ -1,4 +1,4 @@
-print ("Olá, eu sou a Siri. Agora, tenho IA e serei seu chatbot em todo o ecossistema Apple. Eu sou movido pela Apple Intelligence.")
+print ("Olá, eu sou a Siri. Agora, tenho IA e serei seu chatbot em todo o ecossistema Apple. Eu sou movido pela Apple Intelligence. Isto será uma demonstração de como funciona.")
 print ("Feito pela Apple na Califórnia")
 nome=input("Qual o teu nome? ")
 print ("Olá "+nome+" Podes testar-me perguntando-me:")
