@@ -3,7 +3,8 @@
 Apple Intelligence é a inteligência artificial da Apple. Como a Apple não é open source e só é lançado em setembro de 2024 para protudos limitados, podem, se souberem disto, ajudar na criação😁🥹.
 
 O Apple Intelligence é movido pelo GPT-4o da OpenAI. O seu site é openai.com.
-![image](https://github.com/Amonnium/Apple-Intelligence/assets/158088433/cb60dfb4-8d00-4cf8-9c33-cc4940ca1179)
+![image](https://github.com/Amonnium/Apple-Intelligence/assets/158088433/7f824ed6-a839-426c-8a07-414b5b80b7d3)
+
 
 
 Eu respeito a Apple e isto não tem nada a haver com o modelo real. É só uma simulação.
