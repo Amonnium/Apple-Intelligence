@@ -22,8 +22,8 @@ declined, etc.
 
 ## Copyright
 
-Fork this repository has been a autorization of me for safety.
-Or go to court!
+Fork this repository needs a autorization from me for safety.
+Or go to the court!
 
 -------
 
