@@ -2,7 +2,7 @@ print ("Olá, eu sou a Siri. Agora, tenho IA e serei seu chatbot em todo o ecoss
 print ("Feito pela Apple na Califórnia")
 nome=input("Qual o teu nome? ")
 print ("Olá "+nome+". Podes testar-me perguntando-me:")
-pergunta=input("Diz-me. Qual o teu modelo.")
+pergunta=input("Pergunta-me, qual o meu modelo.")
 print("Eu sou alimentado pelo Apple Intelligence desenvolvido pela Apple e que tem muitas capacidades. Comigo, podes-me perguntar normalmente pela voz sem stress.")
 despedida=input("Está na hora da despedida.")
 print("Obrigado "+nome+". Adeus.")
