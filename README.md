@@ -1,6 +1,6 @@
 ![image](https://github.com/Amonnium/Apple-Intelligence/assets/158088433/e8ad2a1a-fa0a-4fab-9342-cbf996c214d4)
 
-Apple Intelligence é a inteligência artificial da Apple. Como a Apple não é open source e só está disponível para protudos limitados, vocês podem, se souberem disto, ajudar na criação 😁🥹?
+Apple Intelligence é a inteligência artificial da Apple. Como a Apple não é open source e só está disponível para protudos limitados, vocês podem, se souberem disto, ajudar na criação? 😁🥹
 
 O Apple Intelligence é movido pelo GPT-4o da OpenAI. O seu site é openai.com.
 
