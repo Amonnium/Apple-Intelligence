@@ -14,11 +14,11 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a vulnerability, you can report by these methods: 
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Go to the Issues tab to report a vulnerability, that, between 24 hours to one week at max, I will answer and try to solve the problem;
+Or send email to joaodiogooliveira@proton.me, and at max of 24 hours, I will answer and try to solve the problem.
+If I can't solve, you will have a permission to fork the repository and solve the problem. 
 
 ## Copyright
 
