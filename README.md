@@ -2,7 +2,7 @@
 
 Apple Intelligence é a inteligência artificial da Apple. Como a Apple não é open source e só está disponível para protudos limitados, vocês podem, se souberem disto, ajudar na criação? 😁🥹
 
-O Apple Intelligence é movido pelo GPT-4o da OpenAI. O seu site é openai.com.
+O Apple Intelligence, apesar de ser independente, tem muitos recursos movidos pelo ChatGPT da OpenAI. Os seus sites são chatgpt.com e openai.com.
 
 ![image](https://github.com/Amonnium/Apple-Intelligence/assets/158088433/7f824ed6-a839-426c-8a07-414b5b80b7d3)
 
@@ -17,7 +17,7 @@ English:
 
 Apple Intelligence is Apple's artificial intelligence. Since Apple isn't open source and is only available for a limited number of products, could you, if you know about this, help with its creation? 😁🥹
 
-Apple Intelligence is powered by OpenAI's GPT-4o. Its website is openai.com.
+Apple Intelligence, despite being independent, has many features powered by OpenAI's ChatGPT. Their websites are chatgpt.com and openai.com.
 
 ![image](https://github.com/Amonnium/Apple-Intelligence/assets/158088433/7f824ed6-a839-426c-8a07-414b5b80b7d3)
 
