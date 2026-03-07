@@ -39,7 +39,7 @@ jobs:
             - name: First interaction
   uses: actions/first-interaction@v1.3.0
   with:
-    # Token for the repository. Can be passed in using {{ secrets.GITHUB_TOKEN }}
+    # Token for the repository. Can be passed in using {{ secrets.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 }}
     repo-token: 
     # Comment to post on an individual's first issue
     issue-message: # optional
