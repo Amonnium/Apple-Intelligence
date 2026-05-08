@@ -22,6 +22,6 @@ Apple Intelligence, despite being independent, has many features powered by Open
 ![image](https://github.com/Amonnium/Apple-Intelligence/assets/158088433/7f824ed6-a839-426c-8a07-414b5b80b7d3)
 
 I respect Apple, and this has nothing to do with the actual model. It's just a simulation.
-The Apple website is apple.com.
+The Apple's website is apple.com.
 
 ![image](https://github.com/Amonnium/Apple-Intelligence/assets/158088433/e23d9adc-c7b6-4a4f-83e3-bc49413551d8)
